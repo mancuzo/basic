@@ -2,6 +2,7 @@
 //Módulo básico
 //Autor: Geison Mancuzo
 //04/04/2021
+//Versão 1.210404b
 
 //Definição de pinos
 int led1 = 5;
